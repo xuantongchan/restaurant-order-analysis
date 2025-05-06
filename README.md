@@ -9,6 +9,8 @@ This was inspired and guided by [this video tutorial](https://www.youtube.com/wa
 | File | Purpose |
 |------|---------|
 | `create_restaurant_db.sql` | Restaurant database used |
+| `menu_items.csv` | Menu database used |
+| `order_details.csv` | Order details database used |
 | `explore_menu_items_db.sql` | Exploring the menu items database |
 | `explore_order_details_db.sql` | Exploring the order details database |
 | `analyze_customer_behaviour.sql` | Gaining insight on the database provided  |
